@@ -7,6 +7,8 @@
     <title>Document</title>
 </head>
 <body>
+<b> Test </b>
+
 <a href="www.vk.com">VK</a>
 <p>Test test test I'm going to say some <strong>nice</strong> things <br> 
     about your <em>company and communities</em> </p>
@@ -32,6 +34,7 @@
  </div>
     </p>
  <p>I'm under the world. <br>
+
      Also want thank to my friends. <br> <del>Long time</del> ago I <mark>realised</mark> I can't do anything than dsncing. <br>
      <em>That's</em> why I <i>decided</i> to get a new profession.
  </p>
