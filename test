@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<h2>"Ну не знаю. не знаю"</h2>
+<h1>"Это заголовок"</h1>
+<div>
+<p title="не наводи сюда, паскуда">
+  Учимся делать небольшие HTML сайтики. Как тебе такое, <strong> Илон Маск </strong>? <br>
+<br>
+</div>
+<hr>
+<a href="https://platform.utest.com/dashboard"><img src="pic.png"></a>
+<p>
+
+
+</body>
+</html>
