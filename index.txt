@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
- 
+<a href="www.vk.com">VK</a>
 <p>Test test test I'm going to say some <strong>nice</strong> things <br> 
     about your <em>company and communities</em> </p>
  <h1>Hello world!</h1>  
